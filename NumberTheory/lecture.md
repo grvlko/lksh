@@ -1,14 +1,6 @@
 ### Решето Эратосфена за O(n)
 
-Быстренько повторяем базу
-
-<p align="center"><img src="assets/sieve_basic.png"><br/></p>
-
-Факторизация за корень
-
-<p align="center"><img src="assets/factor.png"><br/></p>
-
-И делаем с наименьшими делителями. Тут надо нарисовать деревья всех чисел, полученные отношением a = p(a) * b
+Тут надо нарисовать деревья всех чисел, полученные отношением a = p(a) * b
 
 <p align="center"><img src="assets/sieve_O(n)1.png"><br/></p>
 
@@ -43,9 +35,3 @@
 Еще пару слов про мультипликативные функции
 
 <p align="center"><img src="assets/multiplicative.png"><br/></p>
-
-### Тесты на простоту (если успеем)
-
-Пара слов про проверку за корень.
-
-<p align="center"><img src="assets/fermat.png"><br/></p>
