@@ -4,7 +4,11 @@
 
 <p align="center"><img src="assets/sieve_basic.png"><br/></p>
 
-И делаем с наименьшими делителями
+Факторизация за корень
+
+<p align="center"><img src="assets/factor.png"><br/></p>
+
+И делаем с наименьшими делителями. Тут надо нарисовать деревья всех чисел, полученные отношением a = p(a) * b
 
 <p align="center"><img src="assets/sieve_O(n)1.png"><br/></p>
 
